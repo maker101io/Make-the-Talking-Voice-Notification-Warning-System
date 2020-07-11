@@ -6,6 +6,8 @@ https://www.pcbway.com/project/member/?bmbno=36212368-C59F-47 </br></br>
 ![](cover.png) </br> </br>
 # Video Tutorial
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/cG5asqsVbhw/0.jpg)](http://www.youtube.com/watch?v=cG5asqsVbhw)</br></br>
+# Schematic
+![](Schematic_PIR_Activated_Talking_01_2020-07-11_20-45-03.png) </br> </br>
 # Required Components for PCB </br>
 **DFPlayer Mini MP3 -** https://bit.ly/2BVgNAU </br>
 **HC-SR505 Mini PIR -** https://bit.ly/2PfD674 </br>
